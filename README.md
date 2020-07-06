@@ -19,6 +19,10 @@ And for more information about that superhero click on the image.
   - [Bootstrap]( https://getbootstrap.com/) -for designing the page.
   - [JavaScript]( https://www.javascript.com/) -for adding various functionalities to the page.
   
+  ## Deployment
+   - For deploying this website online i used github. I hosted this website github and here is the link of the website  [superheroimages](superheroimages.com).
+  
+  
   ## Contributing
   - You can contribute in the designing of the website so that it can look better.
 ---
@@ -26,4 +30,4 @@ And for more information about that superhero click on the image.
 &copy; Akshay Panchal , Computer Science Engg.
 
 ## Acknowledgements
- - Thaks to superhero Api website by using which i am able to comlete this project.
+ - Thanks to superhero Api website by using which i am able to comlete this project.
